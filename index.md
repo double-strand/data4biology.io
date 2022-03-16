@@ -1,6 +1,6 @@
-![](assets/DoubleStrandLogo.png). 
-  
-# Double-strand
+![](assets/DoubleStrandLogo.png).   
+   
+# Double-strand. 
 
 
   
